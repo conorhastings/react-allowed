@@ -1,6 +1,6 @@
 {
   "name": "react-allowed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a react component that calls a function prop isAllowed to determine whether or not to render children",
   "main": "dist/index.js",
   "scripts": {
