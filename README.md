@@ -1,6 +1,6 @@
 ## React Allowed 
 
-a react component that calls a function prop isAllowed to determine whether or not to render childre
+a react component that calls a function prop isAllowed to determine whether or not to render children
 
 ### Install
 
@@ -27,7 +27,7 @@ const Component = () => {
   		<h1>wow what a big number</h1>
   	</Allowed>
 }
-
+```
 
 ### License
 
